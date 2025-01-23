@@ -1,0 +1,33 @@
+name: proj_env
+channels:
+  - defaul
+  - conda-forge
+dependencies:
+  - python=3.8
+  - pip:
+      - azure-common
+      - azure-core
+      - azure-graphrbac
+      - azure-mgmt-authorization
+      - azure-mgmt-containerregistry
+      - azure-mgmt-core
+      - azure-mgmt-keyvault
+      - azure-mgmt-resource
+      - azure-mgmt-storage
+      - azureml
+      - azureml-core
+      - azureml-pipeline
+      - azureml-pipeline-core
+      - azureml-pipeline-steps
+      - azureml-sdk
+      - azureml-telemetry
+      - azureml-train
+      - azureml-train-core
+      - azureml-train-restclients-hyperdrive
+      - numpy
+      - pandas
+      - scikit-learn
+      - xgboost
+      - argparse
+      - mlflow
+      - joblib

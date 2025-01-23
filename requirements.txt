@@ -1,0 +1,16 @@
+pandas
+numpy
+azureml-sdk
+scikit-learn
+xgboost
+argparse
+azureml
+mlflow
+joblib
+azure-eventhub
+azure-functions
+confluent-kafka
+gradio
+asyncio
+requests
+azure-ai-ml
